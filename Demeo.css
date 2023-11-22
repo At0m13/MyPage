@@ -1,0 +1,24 @@
+body {
+    background-color: plum;
+    font-family: cursive;
+}
+        
+.red {
+    color: red;
+}
+        
+img {
+    border-radius: 10px;
+}
+        
+.green:hover {
+    color: green;
+}
+            
+.image {
+    box-shadow: 5px 6px 7px;
+}
+            
+.image:hover {
+    box-shadow: 10px 10px 15px
+}
